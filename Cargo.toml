@@ -1,0 +1,11 @@
+[package]
+name = "skype_serial_killer"
+version = "0.1.0"
+authors = ["mateusz"]
+edition = "2018"
+
+[dependencies]
+serde="*"
+serde_json="*"
+serde_derive="*"
+actix-web = "*"
